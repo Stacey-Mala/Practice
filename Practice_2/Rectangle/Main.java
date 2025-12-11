@@ -1,4 +1,4 @@
-package Rectangle;
+package Practice_2.Rectangle;
 
 public class Main {
     public static void main(String[] args) {

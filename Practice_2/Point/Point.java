@@ -1,4 +1,4 @@
-package Point;
+package Practice_2.Point;
 
 public class Point {
 

@@ -1,4 +1,4 @@
-package StudentGroup;
+package Practice_2.StudentGroup;
 
 public class Main {
     public static void main(String[] args) {

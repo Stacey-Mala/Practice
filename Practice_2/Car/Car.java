@@ -1,4 +1,4 @@
-package Car;
+package Practice_2.Car;
 
 public class Car {
     // class fields

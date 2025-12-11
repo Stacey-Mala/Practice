@@ -1,4 +1,4 @@
-package BankAccount;
+package Practice_2.BankAccount;
 
 public class Main {
     public static void main(String[] args) {
