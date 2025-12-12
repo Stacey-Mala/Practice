@@ -24,9 +24,6 @@ public class Point {
     public void setX(int newX) {
         this.x = newX;
     }
-    public void setY(int newY) {
-        this.y = newY;
-    }
 
     // print coordinates/points
     public void print() {

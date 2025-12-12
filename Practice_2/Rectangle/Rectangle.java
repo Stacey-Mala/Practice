@@ -24,9 +24,6 @@ public class Rectangle {
     public void setWidth(double newWidth) {
         this.width = newWidth;
     }
-    public void setHeight(double newHeight) {
-        this.height = newHeight;
-    }
 
     public void calculateArea() {
         System.out.println("Площадь треугольника: " + getWidth() * getHeight() + " см2");
