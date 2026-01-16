@@ -1,4 +1,4 @@
-package Practice_2.Product;
+package practice2.Product;
 
 public class Product {
     //fields

@@ -1,4 +1,4 @@
-package Practice_2.Rectangle;
+package practice2.Rectangle;
 
 public class Rectangle {
 

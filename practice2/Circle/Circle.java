@@ -1,4 +1,4 @@
-package Practice_2.Circle;
+package practice2.Circle;
 
 public class Circle {
     // field

@@ -1,4 +1,4 @@
-package Practice_3.Library;
+package practice3.Library;
 
 public class Library {
     private String bookTitle;

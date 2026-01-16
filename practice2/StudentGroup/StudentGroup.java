@@ -1,4 +1,4 @@
-package Practice_2.StudentGroup;
+package practice2.StudentGroup;
 
 public class StudentGroup {
     // fields

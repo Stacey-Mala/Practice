@@ -1,4 +1,4 @@
-package Practice_3.MathConstants;
+package practice3.MathConstants;
 
 public class MathConstants {
     final static double PI = 3.14159;

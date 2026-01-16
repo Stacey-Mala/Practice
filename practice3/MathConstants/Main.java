@@ -1,4 +1,4 @@
-package Practice_3.MathConstants;
+package practice3.MathConstants;
 
 public class Main {
     public static void main(String[] args) {

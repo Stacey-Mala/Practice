@@ -1,4 +1,4 @@
-package Practice_3.GameSettings;
+package practice3.GameSettings;
 
 public class Main {
     public static void main(String[] args) {

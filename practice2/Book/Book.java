@@ -1,4 +1,4 @@
-package Practice_2.Book;
+package practice2.Book;
 
 public class Book {
 
