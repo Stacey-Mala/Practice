@@ -18,7 +18,7 @@ public class Task2 {
         System.out.print("Enter a name to search: ");
         String name = scanner.nextLine();
         if (data.containsKey(name)) {
-            System.out.println(name + " was found");
+            System.out.println(name + " : " + data.get(name));
         } else {
             System.out.println(name + " was not found");
         }

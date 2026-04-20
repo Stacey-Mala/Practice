@@ -15,10 +15,16 @@ public class Task3 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter an ID: ");
         String input = scanner.nextLine();
-        try{
-            int targetID = Integer.parseInt(input);
-            System.out.println("Nearest largest ID: " + employees.higherKey(targetID));
-        } catch(NumberFormatException e) {
+        try {
+            int targetId = Integer.parseInt(input);
+            Integer higherId = employees.higherKey(targetId);
+
+            if (higherId != null) {
+                System.out.println("Higher ID: " + higherId + ", employee: " + employees.get(higherId));
+            } else {
+                System.out.println("There is no employee with higher ID");
+            }
+        } catch (NumberFormatException e) {
             System.out.println("Invalid input");
         }
         scanner.close();

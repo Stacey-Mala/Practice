@@ -5,11 +5,11 @@ import java.util.ArrayDeque;
 public class Task2 {
     public static void main(String[] args){
         ArrayDeque<String> stack = new ArrayDeque<>();
-        stack.add("Three");
-        stack.add("Two");
-        stack.add("Four");
-        stack.add("One");
-        stack.add("Five");
+        stack.push("Three");
+        stack.push("Two");
+        stack.push("Four");
+        stack.push("One");
+        stack.push("Five");
 
         while(!stack.isEmpty()){
             System.out.println(stack.pop());

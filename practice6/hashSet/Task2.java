@@ -6,7 +6,7 @@ import java.util.Set;
 public class Task2 {
     public static void main(String[] args) {
         Set<Integer> nums = new HashSet<>();
-        for (int i = 0; i <= 10; i++) {
+        for (int i = 1; i <= 10; i++) {
             nums.add(i * 4);
         }
 
