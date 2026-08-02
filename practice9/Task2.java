@@ -1,6 +1,6 @@
 package practice9;
 
-public class Thread2 {
+public class Task2 {
     public static void main(String[] args) throws InterruptedException{
         Runnable task = () -> {
             for (int i = 0; i < 5; i++) {
