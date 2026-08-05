@@ -20,6 +20,6 @@ public class Counter {
         t1.join();
         t2.join();
 
-        System.out.println("Result: " + count); // is always 20000
+        System.out.println("Result: " + count); // is always 2000
     }
 }
